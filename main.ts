@@ -1,1 +1,2 @@
-const v='3';
+const v='5';
+let str='2'
