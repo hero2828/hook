@@ -1,2 +1,1 @@
-const v='3';
-let str='33'
+let h=1
